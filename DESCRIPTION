@@ -1,8 +1,8 @@
 Package: FMStatR
 Type: Package
-Title: Funzioni di supporto al corso di statistica per la laurea magistrale
-Version: 0.5.3
-Date: 2018-11-07
+Title: Oggetti a supporto del corso di statistica applicata LM
+Version: 0.5.4
+Date: 2018-11-08
 Authors@R: person("Federico M.","STEFANINI",email="federico.stefanini@unifi.it", 
            role=c("aut","cre"))
 Maintainer: Federico M. STEFANINI <federico.stefanini@unifi.it>
