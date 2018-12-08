@@ -1,0 +1,18 @@
+Package: FMStatR
+Type: Package
+Title: Funzioni di supporto al corso di statistica per la laurea magistrale
+Version: 0.5.3
+Date: 2018-11-07
+Authors@R: person("Federico M.","STEFANINI",email="federico.stefanini@unifi.it", 
+           role=c("aut","cre"))
+Maintainer: Federico M. STEFANINI <federico.stefanini@unifi.it>
+Description: Il pacchetto contiene funzioni e dataset di corredo al manuale del
+    corso:"Introduzione ai metodi Bayesiani in statistica applicata".
+Depends: R (>= 3.1.3)
+Imports: stats, knitr
+License: GPL-3
+LazyData: true
+VignetteBuilder: knitr
+NeedsCompilation: no
+RoxygenNote: 6.1.1
+Encoding: UTF-8

@@ -1,0 +1,81 @@
+---
+title: "Introduzione al package FMStatR"
+author: "F.M. Stefanini"
+date: "`r Sys.Date()`"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{IntroFMStatR}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+## Introduzione
+
+Questo documento illustra l'uso del package
+*FMStatR* sviluppato come risorsa aggiuntiva al 
+manuale del corso di Statistica per la Magistrale 
+presso la Scuola di Agraria.
+
+In primo luogo bisogna caricare il pacchetto:
+```{r}
+library(FMStatR)
+```
+
+
+## Alcuni riassunti descrittivi  in R
+
+La funzione *chi2Re*  calcola il chiquadro relativo
+per due variabili di interesse.
+I valori estremi del riassunto si ottengono
+negli esempi seguenti
+```{r}
+
+ testVal1 <-  rep(c(1,2),c(5,5))
+ testVal2 <-  rep(c(1,2),c(5,5))
+ table( testVal1,testVal2)
+ chi2Re(testVal1,testVal2)
+
+ testVal1 <-   c(1,1,2,2,1,1,2,2)
+ testVal2 <-  c(1,2,1,2,1,2,1,2)
+ table( testVal1,testVal2)
+ chi2Re(testVal1,testVal2)
+```
+Si noti che le due variabili sono passate come collezioni
+alla funzione.
+
+
+La differenza semplice media si calcola come segue:
+```{r}
+testVal1 <-   c(1,1,2,2,1,1,2,2)
+diffeMedSemp(testVal1)
+
+testVal2 <-   c(1,1,2,NA,1,1,2,2)
+diffeMedSemp(testVal2)
+```
+
+La moda di una variabile
+si calcola invocando la funzione seguente:
+```{r}
+testVal3 <-   c(1,1,2,2,1,1,2,2,17,17,17,17,17,17)
+valoriModali(testVal3)
+
+testVal4 <-   c(11,11,12,NA,11,11,12,12,12,13,14,16,15)
+valoriModali(testVal4)
+```
+Si noti che se vi sono molteplici mode,
+i valori modali sono tutti riportati
+esplicitamente.
+
+
+Il coefficiente di variazione percentuale si calcola come segue:
+```{r}
+coeffVariaPerCen(c(3,1,2,3,52,NA,NA,23))
+```
+
