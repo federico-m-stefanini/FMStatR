@@ -4,7 +4,9 @@
 \name{iris7}
 \alias{iris7}
 \title{Caso di studio iris7}
-\format{Vedere il manuale del corso.}
+\format{
+Vedere il manuale del corso.
+}
 \usage{
 iris7
 }

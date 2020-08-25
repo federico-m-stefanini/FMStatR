@@ -4,7 +4,9 @@
 \name{spigmais}
 \alias{spigmais}
 \title{Caso di studio spigmais}
-\format{Vedere il manuale del corso.}
+\format{
+Vedere il manuale del corso.
+}
 \usage{
 spigmais
 }

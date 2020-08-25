@@ -4,7 +4,9 @@
 \name{serieTempera}
 \alias{serieTempera}
 \title{Caso di studio serieTempera}
-\format{Vedere il manuale del corso.}
+\format{
+Vedere il manuale del corso.
+}
 \usage{
 serieTempera
 }

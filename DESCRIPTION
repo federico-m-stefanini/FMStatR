@@ -1,18 +1,21 @@
 Package: FMStatR
 Type: Package
-Title: Oggetti a supporto del corso di statistica applicata LM
-Version: 0.5.4
-Date: 2019-02-23
+Title: Oggetti a supporto del corso di statistica applicata per LM BIOEMSA
+Version: 0.5.7
+Date: 2020-08-25
 Authors@R: person("Federico M.","STEFANINI",email="federico.stefanini@unifi.it", 
            role=c("aut","cre"))
 Maintainer: Federico M. STEFANINI <federico.stefanini@unifi.it>
 Description: Il pacchetto contiene funzioni e dataset di corredo al manuale del
     corso:"Introduzione ai metodi Bayesiani in statistica applicata".
-Depends: R (>= 3.1.3)
-Imports: stats, knitr
+Depends: R (>= 3.5.0)
+Imports: 
+       stats
+Suggests:
+       knitr
 License: GPL-3
 LazyData: true
 VignetteBuilder: knitr
 NeedsCompilation: no
-RoxygenNote: 6.1.1
+RoxygenNote: 7.1.1
 Encoding: UTF-8

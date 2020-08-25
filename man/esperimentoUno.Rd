@@ -4,7 +4,9 @@
 \name{esperimentoUno}
 \alias{esperimentoUno}
 \title{Barattoli di conserva (dati completi)}
-\format{Vedere il manuale del corso.}
+\format{
+Vedere il manuale del corso.
+}
 \usage{
 esperimentoUno
 }

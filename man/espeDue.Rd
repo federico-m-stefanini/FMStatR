@@ -4,7 +4,9 @@
 \name{espeDue}
 \alias{espeDue}
 \title{Barattoli di conserva}
-\format{Vedere il manuale del corso.}
+\format{
+Vedere il manuale del corso.
+}
 \usage{
 espeDue
 }

@@ -4,7 +4,9 @@
 \name{wineTaste}
 \alias{wineTaste}
 \title{Caso di studio wineTaste}
-\format{Vedere il manuale del corso.}
+\format{
+Vedere il manuale del corso.
+}
 \usage{
 wineTaste
 }
