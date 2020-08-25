@@ -4,6 +4,8 @@
 #'
 #' @usage data(penguinsDF, package="FMStatR")
 #' @usage penguinsDF
+#' 
+#' 
 #' @references  \url{https://allisonhorst.github.io/palmerpenguins/}
 #' @references  Palmer Station Antarctica LTER and K. Gorman, 2020. 
 #' Structural size measurements and isotopic signatures of foraging among 

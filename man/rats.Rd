@@ -16,10 +16,18 @@ Vedere il manuale del corso.
 \url{https://cran.r-project.org/doc/contrib/Faraway-PRA.pdf}
 }
 \usage{
+data(rats, package="FMStatR")
+
 rats
 }
 \description{
 Un dataset che contiene il caso di studio rats con nome
 variabili modificate.
+}
+\references{
+Box G and Cox D (1964) "An analysis of transformations" 
+J. Roy. Stat. Soc. Series B.26211.
+
+\url{https://cran.r-project.org/web/packages/faraway/index.html}
 }
 \keyword{datasets}
