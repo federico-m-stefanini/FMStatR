@@ -4,7 +4,9 @@
 \name{DFATR}
 \alias{DFATR}
 \title{Concentrazione di antociani per giorno}
-\format{Vedere il manuale del corso.}
+\format{
+Vedere il manuale del corso.
+}
 \usage{
 DFATR
 }
