@@ -1,7 +1,7 @@
 Package: FMStatR
 Type: Package
 Title: Oggetti a supporto del corso di statistica applicata per LM BIOEMSA
-Version: 0.5.7
+Version: 0.5.8
 Date: 2020-08-25
 Authors@R: person("Federico M.","STEFANINI",email="federico.stefanini@unifi.it", 
            role=c("aut","cre"))
@@ -12,7 +12,8 @@ Depends: R (>= 3.5.0)
 Imports: 
        stats
 Suggests:
-       knitr
+       knitr,
+       rmarkdown
 License: GPL-3
 LazyData: true
 VignetteBuilder: knitr
