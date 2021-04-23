@@ -1,0 +1,157 @@
+]0;/media/fred/STORE/PRJ/package_FMStatR/versione_5_rilasciata_GitHub/FMStatR]0;fred@DeOBe13-9350: /media/fred/STORE/PRJ/package_FMStatR/versione_5_rilasciata_GitHub/FMStatR[01;32mfred@DeOBe13-9350[00m:[01;34m/media/fred/STORE/PRJ/package_FMStatR/versione_5_rilasciata_Gi[KttHub/FMStatR[00m$ [K[A]0;fred@DeOBe13-9350: /media/fred/STORE/PRJ/package_FMStatR/versione_5_rilasciata_GitHub/FMStatR[01;32mfred@DeOBe13-9350[00m:[01;34m/media/fred/STORE/PRJ/package_FMStatR/versione_5_rilasciata_GGitHub/FMStatR[00m$ ls
+[0m[01;34mdata[0m  [01;32mDESCRIPTION[0m  [01;34mdoc[0m  [01;32mFMStatR.Rproj[0m  [01;34mman[0m  [01;34mMeta[0m  NAMESPACE  [01;34mR[0m  [01;34mvignettes[0m
+]0;/media/fred/STORE/PRJ/package_FMStatR/versione_5_rilasciata_GitHub/FMStatR]0;fred@DeOBe13-9350: /media/fred/STORE/PRJ/package_FMStatR/versione_5_rilasciata_GitHub/FMStatR[01;32mfred@DeOBe13-9350[00m:[01;34m/media/fred/STORE/PRJ/package_FMStatR/versione_5_rilasciata_GGitHub/FMStatR[00m$ pwd
+/media/fred/STORE/PRJ/package_FMStatR/versione_5_rilasciata_GitHub/FMStatR
+]0;/media/fred/STORE/PRJ/package_FMStatR/versione_5_rilasciata_GitHub/FMStatR]0;fred@DeOBe13-9350: /media/fred/STORE/PRJ/package_FMStatR/versione_5_rilasciata_GitHub/FMStatR[01;32mfred@DeOBe13-9350[00m:[01;34m/media/fred/STORE/PRJ/package_FMStatR/versione_5_rilasciata_GGitHub/FMStatR[00m$ git config --global --list
+[?1h=fatal: unable to read config file '/home/fred/.gitconfig': File o directory no[m n esistente[m
+[K[?1l>]0;/media/fred/STORE/PRJ/package_FMStatR/versione_5_rilasciata_GitHub/FMStatR]0;fred@DeOBe13-9350: /media/fred/STORE/PRJ/package_FMStatR/versione_5_rilasciata_GitHub/FMStatR[01;32mfred@DeOBe13-9350[00m:[01;34m/media/fred/STORE/PRJ/package_FMStatR/versione_5_rilasciata_GGitHub/FMStatR[00m$ ls ~/.gitconfig[C[C[C[C[C[C[C[C[1Pnfig[1Pfig[1Pig[1Pg[K[K*
+ls: impossibile accedere a '/home/fred/.git*': File o directory non esistente
+]0;/media/fred/STORE/PRJ/package_FMStatR/versione_5_rilasciata_GitHub/FMStatR]0;fred@DeOBe13-9350: /media/fred/STORE/PRJ/package_FMStatR/versione_5_rilasciata_GitHub/FMStatR[01;32mfred@DeOBe13-9350[00m:[01;34m/media/fred/STORE/PRJ/package_FMStatR/versione_5_rilasciata_GGitHub/FMStatR[00m$ ls ~/.git*[1P*[1P*[1P*
+/home/fred/.bash_history  /home/fred/.profile
+/home/fred/.bash_logout   /home/fred/.Rhistory
+/home/fred/.bashrc        /home/fred/.sudo_as_admin_successful
+/home/fred/.ICEauthority
+
+/home/fred/.:
+[0m[01;34mBAKUP[0m      [01;34mDropbox[0m           [01;34mModelli[0m  [01;34mPubblici[0m   [01;34mScrivania[0m
+[01;34mbin[0m        examples.desktop  [01;34mMusica[0m   [01;34mR[0m          [01;34msnap[0m
+[01;34mDocumenti[0m  [01;34mImmagini[0m          [01;34mPDF[0m      [01;34mScaricati[0m  [01;34mVideo[0m
+
+/home/fred/..:
+[01;34mfred[0m
+
+/home/fred/.cache:
+[01;34mdconf[0m
+event-sound-cache.tdb.3ed3302aa259474992c86537cd41aaec.x86_64-pc-linux-gnu
+[01;34mevolution[0m
+[01;34mfontconfig[0m
+[01;34mgnome-control-center[0m
+[01;34mgnome-software[0m
+[01;34mgoogle-chrome[0m
+[01;34mgstreamer-1.0[0m
+[01;34mibus[0m
+[01;34mibus-table[0m
+[01;34mlibgweather[0m
+[01;34mmozilla[0m
+[01;34mobexd[0m
+[01;34mRStudio[0m
+[01;34mthumbnails[0m
+[01;34mubuntu-report[0m
+[01;34munity-tweak-tool[0m
+[01;34mupdate-manager-core[0m
+[01;34mwallpaper[0m
+zeitgeist-vacuum.stamp
+
+/home/fred/.config:
+[01;34mautostart[0m                 [01;34mgnome-session[0m  [01;34mlibreoffice[0m    QtProject.conf
+[01;34mdconf[0m                     [01;34mgoa-1.0[0m        [01;34mmenus[0m          [01;34mR[0m
+[01;34menchant[0m                   [01;34mgoogle-chrome[0m  mimeapps.list  [01;34mRStudio[0m
+[01;34meog[0m                       [01;34mgtk-3.0[0m        monitors.xml   [01;34mupdate-notifier[0m
+[01;34mevolution[0m                 [01;34mgtk-4.0[0m        monitors.xml~  user-dirs.dirs
+[01;34mgedit[0m                     [01;34mibus[0m           [01;34mnautilus[0m       user-dirs.locale
+gnome-initial-setup-done  [01;34mkdeconnect[0m     [01;34mpulse[0m          [01;34mvlc[0m
+
+/home/fred/.cups:
+lpoptions
+ls: impossibile aprire la directory '/home/fred/.dbus': Permesso negato
+
+/home/fred/.dropbox:
+[01;35mcommand_socket[0m  host.db       [01;34minstance1[0m    [01;34mmachine_storage[0m
+dropbox.pid     [01;35miface_socket[0m  [01;34minstance_db[0m  unlink.db
+[01;34mevents[0m          info.json     [01;34mlogs[0m
+
+/home/fred/.dropbox-dist:
+[01;32mdropboxd[0m  [01;34mdropbox-lnx.x86_64-62.4.103[0m  VERSION
+
+/home/fred/.gnome:
+[01;34mapps[0m
+
+/home/fred/.gnupg:
+[01;34mprivate-keys-v1.d[0m  pubring.kbx  trustdb.gpg
+
+/home/fred/.hplip:
+hplip.conf  hp-systray.lock
+
+/home/fred/.local:
+[01;34mshare[0m
+
+/home/fred/.mozilla:
+[01;34mextensions[0m  [01;34mfirefox[0m  [01;34msystemextensionsdev[0m
+
+/home/fred/.pki:
+[01;34mnssdb[0m
+
+/home/fred/.rstudio-desktop:
+addin_registry  [01;34mexplorer-cache[0m    [01;34mpcs[0m                [01;34mrversion-settings[0m
+[01;34mclient-state[0m    history_database  [01;34mpresentation[0m       saved_source_markers
+[01;34mconsole06[0m       [01;34mlog[0m               [01;34mprofiles-cache[0m     [01;34msessions[0m
+[01;34mctx[0m             [01;34mmonitored[0m         [01;34mprojects_settings[0m  [01;34msources[0m
+[01;34mdictionaries[0m    [01;34mnotebooks[0m         rmd-outputs        [01;34mviewer-cache[0m
+
+/home/fred/.ssh:
+config                 google_compute_engine.pub   id_rsa      known_hosts
+google_compute_engine  google_compute_known_hosts  id_rsa.pub
+
+/home/fred/.ssh2:
+google_compute_engine      google_compute_known_hosts  id_rsa.pub
+google_compute_engine.pub  id_rsa                      known_hosts
+]0;/media/fred/STORE/PRJ/package_FMStatR/versione_5_rilasciata_GitHub/FMStatR]0;fred@DeOBe13-9350: /media/fred/STORE/PRJ/package_FMStatR/versione_5_rilasciata_GitHub/FMStatR[01;32mfred@DeOBe13-9350[00m:[01;34m/media/fred/STORE/PRJ/package_FMStatR/versione_5_rilasciata_GGitHub/FMStatR[00m$ git config --global user.name ""F"e"d"e"r"i"c"o" "M"." "S"t"e"f"a"n"i"n"i"
+]0;/media/fred/STORE/PRJ/package_FMStatR/versione_5_rilasciata_GitHub/FMStatR]0;fred@DeOBe13-9350: /media/fred/STORE/PRJ/package_FMStatR/versione_5_rilasciata_GitHub/FMStatR[01;32mfred@DeOBe13-9350[00m:[01;34m/media/fred/STORE/PRJ/package_FMStatR/versione_5_rilasciata_GGitHub/FMStatR[00m$ git config --global user.name "Federico M. Stefanini"[1Ptefanini"[1Ptefanini"[1Ptefanini"[1Ptefanini"[1Ptefanini".tefanini"stefanini"[1Pederico.stefanini"federico.stefanini"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C@"u"n"i"f"i"."i"t"[1P "federico.stefanini@unifi.it"[1P "federico.stefanini@unifi.it"[1P "federico.stefanini@unifi.it"[1P "federico.stefanini@unifi.it"e "federico.stefanini@unifi.it"m "federico.stefanini@unifi.it"a "federico.stefanini@unifi.it"i "federico.stefanini@unifi.it"l "federico.stefanini@unifi.it"
+]0;/media/fred/STORE/PRJ/package_FMStatR/versione_5_rilasciata_GitHub/FMStatR]0;fred@DeOBe13-9350: /media/fred/STORE/PRJ/package_FMStatR/versione_5_rilasciata_GitHub/FMStatR[01;32mfred@DeOBe13-9350[00m:[01;34m/media/fred/STORE/PRJ/package_FMStatR/versione_5_rilasciata_GGitHub/FMStatR[00m$ git config --global user.email "federico.stefanini@unifi.it"[7Pname "Federico M. Stefanini"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls ~/.*[Kgit*git config --global --list
+[?1h=user.name=Federico M. Stefanini[m
+user.email=federico.stefanini@unifi.it[m
+ls .*
+.gitignore  .Rbuildignore  .RData  .Rhistory
+
+.:
+[0m[01;34mdata[0m  [01;32mDESCRIPTION[0m  [01;34mdoc[0m  [01;32mFMStatR.Rproj[0m  [01;34mman[0m  [01;34mMeta[0m  NAMESPACE  [01;34mR[0m  [01;34mvignettes[0m
+
+..:
+[01;34mFMStatR[0m               [01;31mFMStatR_0.5.3_R_x86_64-pc-linux-gnu.tar.gz[0m
+[01;32mFMStatR_0.3.1.tar.gz[0m  [01;31mFMStatR_0.5.3.tar.gz[0m
+
+.git:
+[01;34mbranches[0m  config  description  HEAD  [01;34mhooks[0m  [01;34minfo[0m  [01;34mobjects[0m  [01;34mrefs[0m
+
+.Rproj.user:
+[01;34mD1AF5F16[0m  [01;34mshared[0m
+]0;/media/fred/STORE/PRJ/package_FMStatR/versione_5_rilasciata_GitHub/FMStatR]0;fred@DeOBe13-9350: /media/fred/STORE/PRJ/package_FMStatR/versione_5_rilasciata_GitHub/FMStatR[01;32mfred@DeOBe13-9350[00m:[01;34m/media/fred/STORE/PRJ/package_FMStatR/versione_5_rilasciata_GGitHub/FMStatR[00m$ ls
+[0m[01;34mdata[0m  [01;32mDESCRIPTION[0m  [01;34mdoc[0m  [01;32mFMStatR.Rproj[0m  [01;34mman[0m  [01;34mMeta[0m  NAMESPACE  [01;34mR[0m  [01;34mvignettes[0m
+]0;/media/fred/STORE/PRJ/package_FMStatR/versione_5_rilasciata_GitHub/FMStatR]0;fred@DeOBe13-9350: /media/fred/STORE/PRJ/package_FMStatR/versione_5_rilasciata_GitHub/FMStatR[01;32mfred@DeOBe13-9350[00m:[01;34m/media/fred/STORE/PRJ/package_FMStatR/versione_5_rilasciata_GGitHub/FMStatR[00m$ git remote add origin git@github.com:federico-m-stefanini/FMStaatR.git
+]0;/media/fred/STORE/PRJ/package_FMStatR/versione_5_rilasciata_GitHub/FMStatR]0;fred@DeOBe13-9350: /media/fred/STORE/PRJ/package_FMStatR/versione_5_rilasciata_GitHub/FMStatR[01;32mfred@DeOBe13-9350[00m:[01;34m/media/fred/STORE/PRJ/package_FMStatR/versione_5_rilasciata_GGitHub/FMStatR[00m$ [K[A]0;fred@DeOBe13-9350: /media/fred/STORE/PRJ/package_FMStatR/versione_5_rilasciata_GitHub/FMStatR[01;32mfred@DeOBe13-9350[00m:[01;34m/media/fred/STORE/PRJ/package_FMStatR/versione_5_rilasciata_GitHub/FMStatR[00m$ [K]0;fred@DeOBe13-9350: /media/fred/STORE/PRJ/package_FMStatR/versione_5_rilasciata_GitHub/FMStatR[01;32mfred@DeOBe13-9350[00m:[01;34m/media/fred/STORE/PRJ/package_FMStatR/versione_5_rilasciata_GGitHub/FMStatR[00m$ git push -o origin master[1P[1@u[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+The authenticity of host 'github.com (140.82.118.3)' can't be established.
+RSA key fingerprint is SHA256:nThbg6kXUpJWGl7E1IGOCspRomTxdCARLviKw6E5SY8.
+Are you sure you want to continue connecting (yes/no)? yes
+Warning: Permanently added 'github.com,140.82.118.3' (RSA) to the list of known hosts.
+Counting objects: 44, done.
+Delta compression using up to 4 threads.
+Compressing objects:   2% (1/43)   Compressing objects:   4% (2/43)   Compressing objects:   6% (3/43)   Compressing objects:   9% (4/43)   Compressing objects:  11% (5/43)   Compressing objects:  13% (6/43)   Compressing objects:  16% (7/43)   Compressing objects:  18% (8/43)   Compressing objects:  20% (9/43)   Compressing objects:  23% (10/43)   Compressing objects:  25% (11/43)   Compressing objects:  27% (12/43)   Compressing objects:  30% (13/43)   Compressing objects:  32% (14/43)   Compressing objects:  34% (15/43)   Compressing objects:  37% (16/43)   Compressing objects:  39% (17/43)   Compressing objects:  41% (18/43)   Compressing objects:  44% (19/43)   Compressing objects:  46% (20/43)   Compressing objects:  48% (21/43)   Compressing objects:  51% (22/43)   Compressing objects:  53% (23/43)   Compressing objects:  55% (24/43)   Compressing objects:  58% (25/43)   Compressing objects:  60% (26/43)   Compressing objects:  62% (27/43)   Compressing objects:  65% (28/43)   Compressing objects:  67% (29/43)   Compressing objects:  69% (30/43)   Compressing objects:  72% (31/43)   Compressing objects:  74% (32/43)   Compressing objects:  76% (33/43)   Compressing objects:  79% (34/43)   Compressing objects:  81% (35/43)   Compressing objects:  83% (36/43)   Compressing objects:  86% (37/43)   Compressing objects:  88% (38/43)   Compressing objects:  90% (39/43)   Compressing objects:  93% (40/43)   Compressing objects:  95% (41/43)   Compressing objects:  97% (42/43)   Compressing objects: 100% (43/43)   Compressing objects: 100% (43/43), done.
+Writing objects:   2% (1/44)   Writing objects:   4% (2/44)   Writing objects:   6% (3/44)   Writing objects:   9% (4/44)   Writing objects:  11% (5/44)   Writing objects:  13% (6/44)   Writing objects:  15% (7/44)   Writing objects:  18% (8/44)   Writing objects:  20% (9/44)   Writing objects:  27% (12/44)   Writing objects:  31% (14/44)   Writing objects:  34% (15/44)   Writing objects:  36% (16/44)   Writing objects:  38% (17/44)   Writing objects:  40% (18/44)   Writing objects:  43% (19/44)   Writing objects:  45% (20/44)   Writing objects:  47% (21/44)   Writing objects:  50% (22/44)   Writing objects:  52% (23/44)   Writing objects:  54% (24/44)   Writing objects:  56% (25/44)   Writing objects:  59% (26/44)   Writing objects:  61% (27/44)   Writing objects:  63% (28/44)   Writing objects:  65% (29/44)   Writing objects:  68% (30/44)   Writing objects:  70% (31/44)   Writing objects:  72% (32/44)   Writing objects:  75% (33/44)   Writing objects:  77% (34/44)   Writing objects:  79% (35/44)   Writing objects:  84% (37/44)   Writing objects:  86% (38/44)   Writing objects:  88% (39/44)   Writing objects:  90% (40/44)   Writing objects:  93% (41/44)   Writing objects:  95% (42/44)   Writing objects:  97% (43/44)   Writing objects: 100% (44/44)   Writing objects: 100% (44/44), 17.13 KiB | 3.42 MiB/s, done.
+Total 44 (delta 5), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/5)   [Kremote: Resolving deltas:  60% (3/5)   [Kremote: Resolving deltas:  80% (4/5)   [Kremote: Resolving deltas: 100% (5/5)   [Kremote: Resolving deltas: 100% (5/5), done.[K
+remote: error: GH007: Your push would publish a private email address.[K
+remote: You can make your email public or disable this protection by visiting:[K
+remote: http://github.com/settings/emails[K
+To github.com:federico-m-stefanini/FMStatR.git
+ ! [remote rejected] master -> master (push declined due to email privacy restrictions)
+error: failed to push some refs to 'git@github.com:federico-m-stefanini/FMStatR.git'
+]0;/media/fred/STORE/PRJ/package_FMStatR/versione_5_rilasciata_GitHub/FMStatR]0;fred@DeOBe13-9350: /media/fred/STORE/PRJ/package_FMStatR/versione_5_rilasciata_GitHub/FMStatR[01;32mfred@DeOBe13-9350[00m:[01;34m/media/fred/STORE/PRJ/package_FMStatR/versione_5_rilasciata_GGitHub/FMStatR[00m$ git push -u origin masterremote add origin git@github.com:federico-m-stefanini/FMStaatR.git[A[C[C[C[C[C[C[C[C[Cls[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C .*git config --global --listuser.email "federico.stefanini@unifi.it"[7Pname "Federico M. Stefanini"email "federico.stefanini@unifi.it"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C--list[K[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls .*[K[Kgit remote add origin git@github.com:federico-m-stefanini/FMStaatR.git[A[C[C[C[C[C[C[C[C[C[C[C[C[C[37Ppush -u origin master
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kgit push -u origin master
+Counting objects: 44, done.
+Delta compression using up to 4 threads.
+Compressing objects:   2% (1/43)   Compressing objects:   4% (2/43)   Compressing objects:   6% (3/43)   Compressing objects:   9% (4/43)   Compressing objects:  11% (5/43)   Compressing objects:  13% (6/43)   Compressing objects:  16% (7/43)   Compressing objects:  18% (8/43)   Compressing objects:  20% (9/43)   Compressing objects:  23% (10/43)   Compressing objects:  25% (11/43)   Compressing objects:  27% (12/43)   Compressing objects:  30% (13/43)   Compressing objects:  32% (14/43)   Compressing objects:  34% (15/43)   Compressing objects:  37% (16/43)   Compressing objects:  39% (17/43)   Compressing objects:  41% (18/43)   Compressing objects:  44% (19/43)   Compressing objects:  46% (20/43)   Compressing objects:  48% (21/43)   Compressing objects:  51% (22/43)   Compressing objects:  53% (23/43)   Compressing objects:  55% (24/43)   Compressing objects:  58% (25/43)   Compressing objects:  60% (26/43)   Compressing objects:  62% (27/43)   Compressing objects:  65% (28/43)   Compressing objects:  67% (29/43)   Compressing objects:  69% (30/43)   Compressing objects:  72% (31/43)   Compressing objects:  74% (32/43)   Compressing objects:  76% (33/43)   Compressing objects:  79% (34/43)   Compressing objects:  81% (35/43)   Compressing objects:  83% (36/43)   Compressing objects:  86% (37/43)   Compressing objects:  88% (38/43)   Compressing objects:  90% (39/43)   Compressing objects:  93% (40/43)   Compressing objects:  95% (41/43)   Compressing objects:  97% (42/43)   Compressing objects: 100% (43/43)   Compressing objects: 100% (43/43), done.
+Writing objects:   2% (1/44)   Writing objects:   4% (2/44)   Writing objects:   6% (3/44)   Writing objects:   9% (4/44)   Writing objects:  11% (5/44)   Writing objects:  13% (6/44)   Writing objects:  15% (7/44)   Writing objects:  18% (8/44)   Writing objects:  20% (9/44)   Writing objects:  27% (12/44)   Writing objects:  31% (14/44)   Writing objects:  34% (15/44)   Writing objects:  36% (16/44)   Writing objects:  38% (17/44)   Writing objects:  40% (18/44)   Writing objects:  43% (19/44)   Writing objects:  45% (20/44)   Writing objects:  47% (21/44)   Writing objects:  50% (22/44)   Writing objects:  52% (23/44)   Writing objects:  54% (24/44)   Writing objects:  56% (25/44)   Writing objects:  59% (26/44)   Writing objects:  61% (27/44)   Writing objects:  63% (28/44)   Writing objects:  65% (29/44)   Writing objects:  68% (30/44)   Writing objects:  70% (31/44)   Writing objects:  72% (32/44)   Writing objects:  75% (33/44)   Writing objects:  77% (34/44)   Writing objects:  79% (35/44)   Writing objects:  84% (37/44)   Writing objects:  86% (38/44)   Writing objects:  88% (39/44)   Writing objects:  90% (40/44)   Writing objects:  93% (41/44)   Writing objects:  95% (42/44)   Writing objects:  97% (43/44)   Writing objects: 100% (44/44)   Writing objects: 100% (44/44), 17.13 KiB | 4.28 MiB/s, done.
+Total 44 (delta 5), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/5)   [Kremote: Resolving deltas:  60% (3/5)   [Kremote: Resolving deltas:  80% (4/5)   [Kremote: Resolving deltas: 100% (5/5)   [Kremote: Resolving deltas: 100% (5/5), done.[K
+remote: 
+remote: Create a pull request for 'master' on GitHub by visiting:[K
+remote:      https://github.com/federico-m-stefanini/FMStatR/pull/new/master[K
+remote: 
+To github.com:federico-m-stefanini/FMStatR.git
+ * [new branch]      master -> master
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+]0;/media/fred/STORE/PRJ/package_FMStatR/versione_5_rilasciata_GitHub/FMStatR]0;fred@DeOBe13-9350: /media/fred/STORE/PRJ/package_FMStatR/versione_5_rilasciata_GitHub/FMStatR[01;32mfred@DeOBe13-9350[00m:[01;34m/media/fred/STORE/PRJ/package_FMStatR/versione_5_rilasciata_GGitHub/FMStatR[00m$ ls
+[0m[01;34mdata[0m         [01;34mdoc[0m            [01;34mman[0m   NAMESPACE  README.md
+[01;32mDESCRIPTION[0m  [01;32mFMStatR.Rproj[0m  [01;34mMeta[0m  [01;34mR[0m          [01;34mvignettes[0m
+]0;/media/fred/STORE/PRJ/package_FMStatR/versione_5_rilasciata_GitHub/FMStatR]0;fred@DeOBe13-9350: /media/fred/STORE/PRJ/package_FMStatR/versione_5_rilasciata_GitHub/FMStatR[01;32mfred@DeOBe13-9350[00m:[01;34m/media/fred/STORE/PRJ/package_FMStatR/versione_5_rilasciata_GGitHub/FMStatR[00m$ 

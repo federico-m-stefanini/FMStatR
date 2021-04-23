@@ -1,0 +1,25 @@
+{
+    "id": "8B07B4B4",
+    "path": "/media/fred/STORE/PRJ/package_FMStatR/buffer.R",
+    "project_path": null,
+    "type": "r_source",
+    "hash": "3876210236",
+    "contents": "",
+    "dirty": false,
+    "created": 1544247603329.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "cursorPosition": "26,11",
+        "scrollLine": "0",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1544250411,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1544250411905,
+    "read_only": false,
+    "read_only_alternatives": []
+}
